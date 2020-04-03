@@ -6,4 +6,7 @@ def roll
   rand(1..6)
 end 
 
+# def roll(array)
+#   new_array = array.sample
+# end 
 
